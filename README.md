@@ -1,7 +1,7 @@
 # 2021-Sohu-Campus-Text-Matching-Competition-baseline
 2021 Sohu Campus Text Matching Competition baseline
 
-喜欢的话~麻烦点个star~
+喜欢的话 麻烦点个star:）
 
 官方的baseline是基于BM25的 这里给出一个基于bert的
 框架使用bert4keras
